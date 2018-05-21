@@ -22,7 +22,7 @@ defmodule Absinthe.Plug.Mixfile do
       description: "Plug support for Absinthe, the GraphQL toolkit for Elixir",
       files: ["lib", "mix.exs", "README*"],
       maintainers: ["Ben Wilson", "Bruce Williams"],
-      originzation: "peatio",
+      organization: "peatio",
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/peatio/absinthe_plug.git"}
     ]
